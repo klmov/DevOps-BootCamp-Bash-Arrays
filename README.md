@@ -18,5 +18,5 @@ folder_a
 
 `./array.sh 2`
 
-1 folder created:
+2 folders created:
 folder_a, folder_b
